@@ -111,6 +111,18 @@ section {
   letter-spacing: .1em;
 }
 
+.section-sum {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #9ecdc9;
+  letter-spacing: .2em;
+  font-size: 1.5em;
+}
+
+.OKR {
+  background-color: #f7f7f7;
+}
+
 .userProfile {
   background: #D92BBF;
 }
